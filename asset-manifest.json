@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/robofriends/static/css/main.1147ae2a.css",
+    "main.js": "/robofriends/static/js/main.7bdd7c20.js",
+    "static/js/787.32032a02.chunk.js": "/robofriends/static/js/787.32032a02.chunk.js",
+    "static/media/GREEN LANTERN MOVIE.woff": "/robofriends/static/media/GREEN LANTERN MOVIE.de0e8a9980999dd72151.woff",
+    "index.html": "/robofriends/index.html",
+    "main.1147ae2a.css.map": "/robofriends/static/css/main.1147ae2a.css.map",
+    "main.7bdd7c20.js.map": "/robofriends/static/js/main.7bdd7c20.js.map",
+    "787.32032a02.chunk.js.map": "/robofriends/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1147ae2a.css",
+    "static/js/main.7bdd7c20.js"
+  ]
+}
