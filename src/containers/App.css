@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "GREEN LANTERN MOVIE Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: local("GREEN LANTERN MOVIE Regular"),
+    url("GREEN LANTERN MOVIE.woff") format("woff");
+}
+
+h1 {
+    font-family: 'GREEN LANTERN MOVIE Regular';
+    color: #33e0c9;
+}
